@@ -8,7 +8,7 @@
 - Easy to customize
 
 ### 🔗 Supported Formats
-> This script already supports the following video file formats:
+> This script already supports the following file formats:
 > `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, `.tif`, and `.webp`
 
 ## 🔧 How to Use
