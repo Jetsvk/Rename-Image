@@ -17,7 +17,7 @@
    - Click the green `Code` button on this page, then choose `Download ZIP`.
    - Or use Git:
      ```bash
-     git clone https://github.com/Jetsvk/Convert-Mkv-To-Mp4
+     git clone https://github.com/Jetsvk/Rename-Image
      ```
 2. Place `Image.bat` in the folder with your image files.
 3. Double-click to run it.
