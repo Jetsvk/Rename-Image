@@ -6,16 +6,22 @@
 
 - Rename multiple image files in one click
 - Easy to customize
-
+     
 ### 🔗 Supported Formats
 > This script already supports the following file formats:
 > `.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`, `.tif`, and `.webp`
 
 ## 🔧 How to Use
 
-1. Place `Image.bat` in the folder with your image files.
-2. Double-click to run it.
-3. The files will be renamed in numerical order while keeping their original extensions.
+1. **Download the Repository**
+   - Click the green `Code` button on this page, then choose `Download ZIP`.
+   - Or use Git:
+     ```bash
+     git clone https://github.com/Jetsvk/Convert-Mkv-To-Mp4
+     ```
+2. Place `Image.bat` in the folder with your image files.
+3. Double-click to run it.
+4. The files will be renamed in numerical order while keeping their original extensions.
 
 ## 🚫 Important Notes
 
