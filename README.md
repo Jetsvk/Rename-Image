@@ -22,3 +22,10 @@
 - Run on a backup first if you're unsure—it renames files permanently.
 - Non-image files will be ignored.
 
+💾 How It Works:
+- Script scans all image formats in the folder
+- Renames files numerically by extension
+- Keeps file types intact
+
+### 📚 Documentation
+- https://youtu.be/CoW70Nr-FR0
